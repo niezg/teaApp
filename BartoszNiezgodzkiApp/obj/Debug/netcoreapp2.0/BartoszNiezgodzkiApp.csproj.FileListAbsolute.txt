@@ -1,0 +1,11 @@
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.deps.json
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.runtimeconfig.json
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.runtimeconfig.dev.json
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.dll
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.pdb
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.csprojAssemblyReference.cache
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.csproj.CoreCompileInputs.cache
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.AssemblyInfoInputs.cache
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.AssemblyInfo.cs
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.dll
+C:\Users\niezg\Desktop\cursoea\BartoszNiezgodzkiApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\BartoszNiezgodzkiApp.pdb
