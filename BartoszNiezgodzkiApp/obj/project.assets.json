@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niezg\\Desktop\\cursoea\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp.csproj",
-      "projectName": "BartoszNiezgodzkiApp",
-      "projectPath": "C:\\Users\\niezg\\Desktop\\cursoea\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp.csproj",
+      "projectUniqueName": "C:\\Users\\niezg\\Desktop\\cursoea\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp\\TeaApp.csproj",
+      "projectName": "TeaApp",
+      "projectPath": "C:\\Users\\niezg\\Desktop\\cursoea\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp\\TeaApp.csproj",
       "packagesPath": "C:\\Users\\niezg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\niezg\\Desktop\\cursoea\\BartoszNiezgodzkiApp\\BartoszNiezgodzkiApp\\obj\\",
       "projectStyle": "PackageReference",
