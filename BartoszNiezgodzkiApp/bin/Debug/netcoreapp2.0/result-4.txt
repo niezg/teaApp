@@ -1,0 +1,3 @@
+Mięta,  96,  300,  perfect
+Mięta,  150,  5,  yucky
+Mięta,  96,  20,  yucky

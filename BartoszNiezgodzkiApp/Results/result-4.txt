@@ -1,0 +1,4 @@
+Mięta,  96,  300,  perfect
+Mięta,  60,  4,  weak
+Mięta,  200,  2,  yucky
+Mięta,  34,  180,  weak

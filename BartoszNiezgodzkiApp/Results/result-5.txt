@@ -1,0 +1,2 @@
+Mięta,  96,  300 perfect
+Mięta,  60,  4 weak
