@@ -9,3 +9,14 @@ C:\Users\tomasz\Desktop\TeaApp\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2
 C:\Users\tomasz\Desktop\TeaApp\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.pdb
 C:\Users\tomasz\Desktop\TeaApp\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.dll
 C:\Users\tomasz\Desktop\TeaApp\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.pdb
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.deps.json
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.runtimeconfig.json
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.runtimeconfig.dev.json
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.dll
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\bin\Debug\netcoreapp2.0\TeaApp.pdb
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.csprojAssemblyReference.cache
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.csproj.CoreCompileInputs.cache
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.AssemblyInfoInputs.cache
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.AssemblyInfo.cs
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.dll
+C:\Users\niezg\Desktop\teaAppFinal\teaApp\BartoszNiezgodzkiApp\obj\Debug\netcoreapp2.0\TeaApp.pdb

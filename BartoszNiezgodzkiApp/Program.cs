@@ -10,7 +10,7 @@ namespace BartoszNiezgodzkiApp
         static void Main(string[] args)
         {
 
-            string[] readText = File.ReadAllText("tea-data.txt").Split('\n');
+            string[] readText = File.ReadAllText("tea-data.txt").Split('\n', StringSplitOptions.RemoveEmptyEntries);
             string heading = readText[0];
             Tea.ReadTeaParameters(readText);
             
